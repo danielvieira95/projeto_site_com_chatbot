@@ -1,26 +1,28 @@
+# ☕ Projeto Chatbot Serenatto Café
 
-☕ Projeto Chatbot Serenatto Café
-Bem-vindo ao repositório do Chatbot Serenatto Café!
-Este projeto foi desenvolvido utilizando a ferramenta LangFlow para criar um chatbot inteligente e integrado a uma página web.
+Bem-vindo ao repositório do **Chatbot Serenatto Café**!  
+Este projeto foi desenvolvido utilizando a ferramenta **LangFlow** para criar um chatbot inteligente e integrado a uma página web.
 
-📚 Descrição do Projeto
-🛠️ Desenvolvimento do Chatbot:
-O chatbot foi criado utilizando LangFlow, uma plataforma de construção de fluxos de conversação com integração de LLMs.
+## 📚 Descrição do Projeto
 
-🌐 Integração na Página Web:
-O código HTML gerado pelo LangFlow foi incorporado na página da Serenatto Café, trazendo uma interação dinâmica com os visitantes.
+- 🛠️ **Desenvolvimento do Chatbot:**  
+  O chatbot foi criado utilizando **LangFlow**, uma plataforma de construção de fluxos de conversação com integração de LLMs.
 
-🚀 Deploy:
-O site foi hospedado utilizando o serviço de deploy gratuito da Vercel.
+- 🌐 **Integração na Página Web:**  
+  O código HTML gerado pelo LangFlow foi incorporado na página da **Serenatto Café**, trazendo uma interação dinâmica com os visitantes.
 
-🔗 Acesse o site com o Chatbot aqui:
-👉 projeto-site-com-chatbot.vercel.app
+- 🚀 **Deploy:**  
+  O site foi hospedado utilizando o serviço de deploy gratuito da **Vercel**.
 
-🧰 Tecnologias Utilizadas
-LangFlow — Criação e configuração do chatbot
+- 🔗 **Acesse o site com o Chatbot aqui:**  
+  👉 [projeto-site-com-chatbot.vercel.app](https://projeto-site-com-chatbot.vercel.app/)
 
-HTML5 — Estrutura da página
+## 🧰 Tecnologias Utilizadas
 
-Vercel — Deploy e hospedagem da aplicação
+- [LangFlow](https://github.com/logspace-ai/langflow) — Criação e configuração do chatbot
+- **HTML5** — Estrutura da página
+- **Vercel** — Deploy e hospedagem da aplicação
+
+
 
 
